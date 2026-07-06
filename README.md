@@ -264,4 +264,6 @@ Aspiring Software Developer | AI & Machine Learning Enthusiast | Full-Stack Deve
 
 <p align="center">
 Thanks for visiting my profile! 😊
+
+Thanks for visiting my profile! 😊
 </p>
